@@ -1,0 +1,15 @@
+Flask
+
+torch
+
+torchvision
+
+transformers
+
+timm
+
+numpy
+
+pillow
+
+Werkzeug
